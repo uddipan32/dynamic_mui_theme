@@ -13,5 +13,5 @@ Localhost URL: <br/>
 ![alt text](https://github.com/uddipan32/dynamic_mui_theme/blob/main/public/1.JPG)
 http://1.vcap.me:3000/
 ![alt text](https://github.com/uddipan32/dynamic_mui_theme/blob/main/public/2.JPG)
-http://1.vcap.me:3000/
+http://3.vcap.me:3000/
 
